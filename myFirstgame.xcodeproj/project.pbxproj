@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		77ECF1B8225360B000B63829 /* myFirstgame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myFirstgame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		77ECF1B8225360B000B63829 /* myfirstgame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myfirstgame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77ECF1BB225360B000B63829 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		77ECF1BD225360B000B63829 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		77ECF1BF225360B000B63829 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 		77ECF1B9225360B000B63829 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				77ECF1B8225360B000B63829 /* myFirstgame.app */,
+				77ECF1B8225360B000B63829 /* myfirstgame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		77ECF1B7225360B000B63829 /* myFirstgame */ = {
+		77ECF1B7225360B000B63829 /* myfirstgame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77ECF1D0225360B200B63829 /* Build configuration list for PBXNativeTarget "myFirstgame" */;
+			buildConfigurationList = 77ECF1D0225360B200B63829 /* Build configuration list for PBXNativeTarget "myfirstgame" */;
 			buildPhases = (
 				77ECF1B4225360B000B63829 /* Sources */,
 				77ECF1B5225360B000B63829 /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = myFirstgame;
+			name = myfirstgame;
 			productName = myFirstgame;
-			productReference = 77ECF1B8225360B000B63829 /* myFirstgame.app */;
+			productReference = 77ECF1B8225360B000B63829 /* myfirstgame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 77ECF1B3225360B000B63829 /* Build configuration list for PBXProject "myFirstgame" */;
+			buildConfigurationList = 77ECF1B3225360B000B63829 /* Build configuration list for PBXProject "angrybird" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				77ECF1B7225360B000B63829 /* myFirstgame */,
+				77ECF1B7225360B000B63829 /* myfirstgame */,
 			);
 		};
 /* End PBXProject section */
@@ -329,7 +329,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		77ECF1B3225360B000B63829 /* Build configuration list for PBXProject "myFirstgame" */ = {
+		77ECF1B3225360B000B63829 /* Build configuration list for PBXProject "angrybird" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				77ECF1CE225360B200B63829 /* Debug */,
@@ -338,7 +338,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		77ECF1D0225360B200B63829 /* Build configuration list for PBXNativeTarget "myFirstgame" */ = {
+		77ECF1D0225360B200B63829 /* Build configuration list for PBXNativeTarget "myfirstgame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				77ECF1D1225360B200B63829 /* Debug */,
